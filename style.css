@@ -1,0 +1,11 @@
+.intro{
+    background-image: url(./moon.jpg);
+    background-size: cover;
+    height: 100vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: antiquewhite;
+}
+
+.profile img{
+    border-radius: 50%;
+}
